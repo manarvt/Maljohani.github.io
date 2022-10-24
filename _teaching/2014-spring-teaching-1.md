@@ -8,7 +8,7 @@ date: January 2016 - January 2017
 location: "Jeddah, Saudi Arabia"
 ---
 
-I teached the following courses:
+Courses Taught:
 
 Database management systems
 ======
