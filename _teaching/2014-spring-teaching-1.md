@@ -1,20 +1,26 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "King Abdulaziz University, Faculty of Computing and Information Technology"
+date: January 2016 - January 2017
+location: "Jeddah, Saudi Arabia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I teached the following courses:
 
-Heading 1
+Database management systems
 ======
 
-Heading 2
+Development of E-systems & interface Design
 ======
 
-Heading 3
+Database 2
+======
+
+Techniques of Decision Support Systems
+======
+
+E-Systems Applications
 ======
