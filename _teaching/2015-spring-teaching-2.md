@@ -1,20 +1,51 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Umm Al-Qura University, Faculty of Computer Science Department"
+date: 2017-01-01
+location: "Makkah, Saudi Arabia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Courses Taught:
 
-Heading 1
-======
+Introduction to Artificial Intelligence
+=
 
-Heading 2
-======
+Neural networks
+=
 
-Heading 3
-======
+DISCRETE STRUCTURES I
+=
+
+Database II
+=
+
+Database I
+=
+
+Data Structures
+=
+
+Multimedia Systems
+=
+
+Operating Systems
+=
+
+Intro. to Computer Science
+=
+
+Internet Applications Development
+=
+
+Computer Graphics
+=
+
+Computer Arabization Systems
+=
+
+COMPUTER ARCHITECTURE
+=
+
