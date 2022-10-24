@@ -10,10 +10,10 @@ location: "Jeddah, Saudi Arabia"
 
 Courses Taught:
 
-Database management systems
+Database Management Systems
 ======
 
-Development of E-systems & interface Design
+Development of E-systems & Interface Design
 ======
 
 Database 2
