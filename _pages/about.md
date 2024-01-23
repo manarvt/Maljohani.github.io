@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD student in the Computer Science Department at Virginia Tech. 
-@@I am advised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/).
+#I am advised by [Prof. Bo Ji](https://people.cs.vt.edu/boji/).
 
 My research interests broadly fall within the areas of artificial Intelligent and machine learning, specifically on Heterogenous Federated Learning systems, including how Knowledge Distillation is used in Heterogenous Federated Learning to preserve privacy.
 
