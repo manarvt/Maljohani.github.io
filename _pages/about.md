@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the Computer Science Department at Virginia Tech, advised by [Prof. Xuan Wang](https://xuanwang91.github.io/).
 
-My research interests broadly fall within the areas of artificial Intelligent and machine learning, specifically on Heterogenous Federated Learning systems, including how Knowledge Distillation is used in Heterogenous Federated Learning to preserve privacy.
+My research interests broadly fall within the areas of Natural Language Processing (NLP) and large language models (LLM), with a specific focus on building and analyzing LLMs using multi-omics sequencing data to gain insights into complex diseases. I aim to develop Transformer models from the ground up, integrating diverse types of information. The ultimate goal is to uncover new scientific knowledge and insights through these models.
 
 
 
