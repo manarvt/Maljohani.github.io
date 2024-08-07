@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Computer Science Department at Virginia Tech, advised by Prof. Xuan Wang (https://xuanwang91.github.io/)
+I am a PhD student in the Computer Science Department at Virginia Tech, advised by <u><a https://xuanwang91.github.io/>Prof. Xuan Wang</a>.</u>
 
 
 My research interests broadly fall within the areas of artificial Intelligent and machine learning, specifically on Heterogenous Federated Learning systems, including how Knowledge Distillation is used in Heterogenous Federated Learning to preserve privacy.
